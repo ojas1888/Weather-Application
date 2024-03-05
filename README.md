@@ -31,7 +31,8 @@ npm run start
 
 
 # ScreenShots
-![image](https://github.com/vagisha312/weather-application/assets/108082732/66084523-fb6d-42c1-92a5-49d8bd7653b5)
+![image](https://github.com/ojas1888/Weather-Application/assets/108984783/66dbfa3b-386c-4b09-b6fb-f853cf13f6cb)
+
 
 
 
