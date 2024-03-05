@@ -14,21 +14,21 @@ HTML,CSS,React.js
 
 #### Create react app
 
-http
+```http
 npx create-react-app weather-application 
-
+```
 
 #### Clone the project
 
-http
+```http
 git clone https://github.com/ojas1888/Weather-Application
-
+```
 #### Start Project
 
-http
+```http
 cd weather-application
 npm run start
-
+```
 
 # ScreenShots
 ![image](https://github.com/ojas1888/Weather-Application/assets/108984783/66dbfa3b-386c-4b09-b6fb-f853cf13f6cb)
