@@ -120,4 +120,3 @@ function Forcast(props) {
   );
 }
 export default Forcast;
-//here is the text
